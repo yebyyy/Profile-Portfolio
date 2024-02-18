@@ -41,7 +41,7 @@ function Contact() {
                     <div className="p-1.5 rounded-full bg-gray-200 text-gray-800">
                         <FaGithub className="text-black" size="20" />
                     </div>
-                    <a href="https://github.com/xiaomengye" className="ml-3 font-medium text-gray-800 hover:text-black">My Github Profile</a>
+                    <a href="https://github.com/yebyyy" className="ml-3 font-medium text-gray-800 hover:text-black">My Github Profile</a>
                 </div>
             </div>
         </div>
