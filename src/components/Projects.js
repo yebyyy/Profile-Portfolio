@@ -11,6 +11,13 @@ function Projects() {
                     </div>
                 </a>
                 {/* Add more project entries here */}
+                <a href="https://github.com/yebyyy/Presentation-Script-Generator" className="block">
+                    <div className="bg-white shadow-lg rounded-lg p-4 hover:bg-gray-100 hover:shadow-xl transition duration-300 ease-in-out">
+                        <h3 className="text-xl font-semibold text-purple-600 hover:text-purple-800">Presentation Script Generator</h3>
+                        <p className="text-gray-600">Used OpenAI chat model for script generating. Chained llm chains using langchain.
+                            Deployed the app using streamlit</p>
+                    </div>
+                </a>
             </div>
         </div>
     );
