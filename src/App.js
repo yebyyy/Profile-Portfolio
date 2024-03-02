@@ -1,11 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
 import Header from './components/Header';
 import About from './components/About';
 import Skills from "./components/Skills";
-import Contact from "./components/Contact";
 import Projects from "./components/Projects";
 import ResearchExperience from "./components/ResearchExperience";
+import RelevantCourses from "./components/RelevantCourses";
+import Interests from "./components/Interests";
 
 function App() {
   return (
@@ -13,9 +13,10 @@ function App() {
           <Header />
           <About />
           <Skills />
+          <Interests />
           <Projects />
           <ResearchExperience />
-          <Contact />
+          <RelevantCourses />
       </div>
   );
 }
