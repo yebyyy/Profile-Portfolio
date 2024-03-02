@@ -3,22 +3,22 @@ function Interests() {
         {
             title: "YouTube Videos",
             items: [
-                { name: "Video 1", link: "https://youtube.com/link-to-video-1" },
-                { name: "Video 2", link: "https://youtube.com/link-to-video-2" },
+                { name: "GPT Tokenizer", link: "https://www.youtube.com/watch?v=zduSFxRajkE&t=167s" },
+                { name: "LLMs", link: "https://www.youtube.com/watch?v=zjkBMFhNj_g" },
             ]
         },
         {
             title: "Papers",
             items: [
-                { name: "Paper 1", link: "https://link-to-paper-1.com" },
-                { name: "Paper 2", link: "https://link-to-paper-2.com" },
+                { name: "A Survey of Large Language Models", link: "https://arxiv.org/abs/2303.18223" },
+                // { name: "Paper 2", link: "https://link-to-paper-2.com" },
             ]
         },
         {
             title: "Ongoing Projects",
             items: [
-                { name: "Project 1", link: "https://github.com/link-to-project-1" },
-                { name: "Project 2", link: "https://github.com/link-to-project-2" },
+                { name: "Facial recognition model", link: "https://github.com/yebyyy/Facial-recognition" },
+                // { name: "Project 2", link: "https://github.com/link-to-project-2" },
             ]
         }
     ];
