@@ -5,6 +5,7 @@ function Interests() {
             items: [
                 { name: "GPT Tokenizer", link: "https://www.youtube.com/watch?v=zduSFxRajkE&t=167s" },
                 { name: "LLMs", link: "https://www.youtube.com/watch?v=zjkBMFhNj_g" },
+                { name: "Single GPU LLM Fine Tuning", link: "https://www.youtube.com/watch?v=XpoKB3usmKc" },
             ]
         },
         {
